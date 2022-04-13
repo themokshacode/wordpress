@@ -11,7 +11,7 @@
  *
  * @package WordPress
  */
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxs
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxs3232322332232
 require_once( dirname( __FILE__ ) . '/wp-load.php' );
 
 header('Content-Type: text/xml; charset=' . get_option('blog_charset'), true);
