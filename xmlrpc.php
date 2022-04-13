@@ -10,8 +10,8 @@ assasasaassa
  *
  * @var bool
  */
-define('XMLRPC_REQUEST', false);
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxs
+define('XMLRPC_REQUEST', true);
+
 // Some browser-embedded clients send cookies. We don't want them.
 $_COOKIE = array();
 
