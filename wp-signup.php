@@ -593,7 +593,7 @@ function validate_user_signup() {
 	wpmu_signup_user( $user_name, $user_email, apply_filters( 'add_signup_meta', array() ) );
 
 	confirm_user_signup($user_name, $user_email);
-	return false;
+	return true;
 }
 
 /**
